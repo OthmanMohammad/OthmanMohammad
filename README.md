@@ -57,7 +57,7 @@
 
 
 
-## 📫 How to reach me:
+## 📫 reach me:
 
 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/real-mohammad-othman/)
 
