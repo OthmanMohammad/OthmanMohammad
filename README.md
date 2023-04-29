@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/yourusername">
+<a href="https://github.com/OthmanMohammad">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2500&color=11F7BF&center=true&multiline=true&repeat=false&width=1050&height=175&lines=Mohammad+Othman;Machine+Learning+Engineer+%7C+NLP+Researcher;Software+Engineer" />
 </a>
 </p>
