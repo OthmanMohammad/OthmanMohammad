@@ -13,5 +13,5 @@
 
 * 💡 Areas of interest include natural language processing with a focus on transformers, and generative AI models.
 
-* 💻 I am actively involved in the development of customized named entity recognition (NER) models, as part of my ongoing research pursuits, utilizing state-of-the-art machine learning algorithms and cutting-edge natural language processing techniques.
+* 💻 I am currently involved in the development of customized named entity recognition (NER) models, as part of my ongoing research pursuits, utilizing state-of-the-art machine learning algorithms and cutting-edge natural language processing techniques.
 * 📧 Open to collaborating on projects and innovative ideas. [Contact me](mailto:Mo@MohammadOthman.com) to discuss.
