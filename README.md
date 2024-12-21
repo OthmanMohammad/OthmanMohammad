@@ -1,17 +1,46 @@
 <p align="center">
 <a href="https://github.com/OthmanMohammad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2500&color=11F7BF&center=true&multiline=true&repeat=false&width=1050&height=175&lines=Mohammad+Othman;Machine+Learning+Engineer+%7C+NLP+Researcher;Software+Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2500&color=9f00ff&center=true&multiline=true&repeat=false&width=1050&height=175&lines=Mohammad+Othman;Deep+Learning+Engineer+%7C+LLM+Specialist;AI+Research+%26+Development" />
 </a>
 </p>
 
-<br/>
-</p>
+### About Me
 
-* 🎓 Holding an MSc in Artificial Intelligence from the [University of Aberdeen](https://www.abdn.ac.uk/research/explore/data-ai-572.php).
+I'm a Deep Learning Engineer specializing in Large Language Models (LLMs), Natural Language Processing, and Generative AI. With experience in both research and implementation, I focus on developing and optimizing AI solutions.
 
-* 📖 Worked as a Natural Language Processing (NLP) Researcher at the University of Aberdeen, applying advanced NLP techniques to real-world problems.
+### Expertise & Interests
 
-* 💡 Areas of interest include natural language processing with a focus on transformers, and generative AI models.
+* **Large Language Models**: Working on LLM optimization, data parallel training, and deployment strategies
+* **Deep Learning**: Developing neural architectures and ML systems
+* **Natural Language Processing**: Experience with transformer-based models and NLP techniques
+* **Machine Learning Engineering**: Building scalable ML pipelines and infrastructures
+* **Software Engineering**: Creating robust AI-powered applications
 
-* 💻 I am currently involved in the development of customized named entity recognition (NER) models, as part of my ongoing research pursuits, utilizing state-of-the-art machine learning algorithms and cutting-edge natural language processing techniques.
-* 📧 Open to collaborating on projects and innovative ideas. [Contact me](mailto:Mo@MohammadOthman.com) to discuss.
+### Education & Background
+
+* MSc in Artificial Intelligence from the University of Aberdeen
+* Former NLP Researcher at the University of Aberdeen
+* Currently working as a Deep Learning Engineer, focusing on LLM optimization and scalability
+
+### What I'm Working On
+
+* Optimizing LLM training and inference pipelines
+* Exploring data parallelism techniques for distributed training
+* Developing fine-tuning strategies for domain-specific applications
+* Contributing to open-source AI projects
+
+### Open to
+
+* Technical collaborations on LLM and NLP projects
+* Research partnerships in deep learning and generative AI
+* Consulting opportunities in AI implementation
+* New positions in deep learning and AI research
+
+### Reach me @
+
+* [Email](mailto:Mo@MohammadOthman.com)
+* [Portfolio](https://mohammadothman.com)
+* [LinkedIn](https://www.linkedin.com/in/real-mohammad-othman/)
+* [HuggingFace](https://huggingface.co/MohammadOthma)
+
+---
