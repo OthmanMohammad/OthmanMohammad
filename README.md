@@ -41,6 +41,6 @@ I'm a Deep Learning Engineer specializing in Large Language Models (LLMs), Natur
 * [Email](mailto:Mo@MohammadOthman.com)
 * [Portfolio](https://mohammadothman.com)
 * [LinkedIn](https://www.linkedin.com/in/real-mohammad-othman/)
-* [HuggingFace](https://huggingface.co/MohammadOthma)
+* [HuggingFace](https://huggingface.co/MohammadOthman)
 
 ---
