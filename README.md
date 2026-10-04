@@ -5,7 +5,7 @@ Deep Learning Engineer specializing in Large Language Models and production AI s
 ## Background
 
 - **MSc Artificial Intelligence** - University of Aberdeen
-- **6 years** ML engineering experience
+- **7 years** ML engineering experience
 - Former Deep Learning Engineer at AUI (Augmented Intelligence) - LLM inference and fine-tuning infrastructure
 - Former ML Engineer at JAWWAL (Palestine's main telecom, 20M+ daily events)
 - Former NLP Researcher at University of Aberdeen
